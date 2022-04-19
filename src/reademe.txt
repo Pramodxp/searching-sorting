@@ -1,0 +1,14 @@
+Sorting :
+
+Insertion Sort :
+
+
+Bubble Sort:
+
+
+Selection Sort:
+
+
+Merge Sort:
+
+Heapsort:
